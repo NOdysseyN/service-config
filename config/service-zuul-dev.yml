@@ -3,4 +3,3 @@ allowedIp: 127.0.0.1
 zuul:
   routes:
     service-admin: /service-admin/**
-    zzzz: /zzzz/**
