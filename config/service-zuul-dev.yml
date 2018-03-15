@@ -1,4 +1,4 @@
-allowedIp: 192.168.1.1
+allowedIp: 0.0.0.0
 
 zuul:
   routes:
